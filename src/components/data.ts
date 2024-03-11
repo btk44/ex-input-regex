@@ -16,7 +16,8 @@ export const currencies = [
 export const categories = [
     { id: 1, name: "food", parentId: 0, active: true, color: "#000000" },
     { id: 2, name: "kids", parentId: 0, active: true, color: "#000000" },
-    { id: 3, name: "car", parentId: 0, active: true, color: "#000000" },
+    { id: 3, name: "some stuff", parentId: 0, active: true, color: "#000000" },
     { id: 4, name: "restaurant", parentId: 1, active: true, color: "#000000" },
-    { id: 5, name: "groceries", parentId: 1, active: true, color: "#000000" }
+    { id: 5, name: "groceries", parentId: 1, active: true, color: "#000000" },
+    { id: 6, name: "transfer", parentId: 0, active: true, color: "#000000" }
 ]
